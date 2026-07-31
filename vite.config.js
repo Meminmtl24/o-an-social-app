@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages deployment için repo adınıza uyarlayabilmeniz için görece base path ayarı
-  base: './',
+  base: '/o-an-social-app/',
 })
